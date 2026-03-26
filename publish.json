@@ -1,0 +1,22 @@
+{
+  "project_id": "JoApnS0J",
+  "curseforge_project_id": "1496120",
+  "curseforge_mod_project_id": "1496121",
+  "curseforge_slug": "craft-elytra-recipe",
+  "loaders": ["datapack"],
+  "game_versions": [
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1"
+  ],
+  "version_type": "release",
+  "dependencies": {
+    "datapack": ["5555ff-lib(optional){modrinth:Lr1LVAwO}{curseforge:1495266}"],
+    "mod": ["5555ff-lib(optional){modrinth:Lr1LVAwO}{curseforge:1495273}"]
+  },
+  "discord_role_id": "1450985416885801050"
+}

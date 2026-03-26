@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#H#",
+    "PNP",
+    "P P"
+  ],
+  "key": {
+    "#": "minecraft:tripwire_hook",
+    "H": "minecraft:heavy_core",
+    "P": "minecraft:phantom_membrane",
+    "N": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}
