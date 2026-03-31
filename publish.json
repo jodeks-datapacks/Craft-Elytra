@@ -1,7 +1,7 @@
 {
-  "project_id": "JoApnS0J",
-  "curseforge_project_id": "1496120",
-  "curseforge_mod_project_id": "1496121",
+  "modrinth_id": "JoApnS0J",
+  "curseforge_id": "1496120",
+  "curseforge_mod_id": "1496121",
   "curseforge_slug": "craft-elytra-recipe",
   "loaders": ["datapack"],
   "game_versions": [

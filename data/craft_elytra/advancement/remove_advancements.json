@@ -25,7 +25,7 @@
                 "advancements": {
                   "jodek:craft_elytra": true,
                   "jodek:root": true,
-                  "jodek:utility": true
+                  "jodek:crafting": true
                 }
               }
             }
