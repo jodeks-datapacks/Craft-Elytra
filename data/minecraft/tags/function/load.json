@@ -1,6 +1,5 @@
 {
   "values": [
-    "craft_elytra:app/setup",
-    "craft_elytra:app/load_message"
+    "craft_elytra:app/setup"
   ]
 }
