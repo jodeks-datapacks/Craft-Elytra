@@ -8,12 +8,6 @@
       {
         "text": "\"Craft Elytra\" (craft_elytra)"
       },
-      "\n",
-      {
-        "translate": "craft_elytra.description",
-        "fallback": "Makes Elytras craftable",
-        "color": "#aaaaaa"
-      },
       "\n\n",
       {
         "translate": "jodek.version",
@@ -23,7 +17,7 @@
         "text": " "
       },
       {
-        "text": "1.0.2",
+        "text": "1.1.0",
         "color": "#55ff55"
       },
 
